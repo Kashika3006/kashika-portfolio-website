@@ -1,6 +1,6 @@
-# Kashika .data — Portfolio Website
+# Kashika .data - Portfolio Website
 
-A single-page, data-driven portfolio site showcasing my work in data science, machine learning, and analytics — built to let recruiters and collaborators explore live, working projects rather than just read about them.
+A single-page, data-driven portfolio site showcasing my work in data science, machine learning, and analytics built to let recruiters and collaborators explore live, working projects rather than just read about them.
 
 **🔗 Live site:** [kashika3006.github.io/kashika-portfolio-website](https://kashika3006.github.io/kashika-portfolio-website/)
 
@@ -8,7 +8,7 @@ A single-page, data-driven portfolio site showcasing my work in data science, ma
 
 ## Overview
 
-This portfolio is built as a single self-contained HTML file with a dark theme and cyan/purple accents, featuring an animated network canvas background. All content — projects, skills, certifications, experience, and education — is driven by a single JavaScript `DATA` object, making the site easy to update without touching layout or styling code.
+This portfolio is built as a single self-contained HTML file with a dark theme and cyan/purple accents, featuring an animated network canvas background. All content: projects, skills, certifications, experience, and education is driven by a single JavaScript `DATA` object, making the site easy to update without touching layout or styling code.
 
 ## Features
 
@@ -69,4 +69,4 @@ and visit `http://localhost:8000`.
 
 ---
 
-*Built and maintained by Kashika — BCA (Data Science-focused) student at IGNOU, New Delhi.*
+*Built and maintained by Kashika - BCA student at IGNOU, New Delhi.*
