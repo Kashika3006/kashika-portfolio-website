@@ -12,18 +12,18 @@ This portfolio is built as a single self-contained HTML file with a dark theme a
 
 ## Features
 
-- **Expandable project cards** — click into any project for a full overview, highlights, and key metrics, without leaving the page
-- **Filterable project grid** — filter by category (Machine Learning, Analytics, etc.)
-- **Certifications gallery** — view completed credentials with links to verify certificates
-- **Experience & education timelines** — chronological view of internships and academic background
-- **Animated canvas background** — a subtle, connected-node network effect that runs behind all sections
-- **Fully responsive** — adapts to mobile and tablet breakpoints
+- **Expandable project cards** - click into any project for a full overview, highlights, and key metrics, without leaving the page
+- **Filterable project grid** - filter by category (Machine Learning, Analytics, etc.)
+- **Certifications gallery** - view completed credentials with links to verify certificates
+- **Experience & education timelines** - chronological view of internships and academic background
+- **Animated canvas background** - a subtle, connected-node network effect that runs behind all sections
+- **Fully responsive** - adapts to mobile and tablet breakpoints
 
 ## Tech Stack
 
-- **HTML5 / CSS3** — custom properties (CSS variables) for theming, CSS Grid for layout
-- **Vanilla JavaScript** — no frameworks; DOM rendering driven by a central `DATA` object
-- **Canvas API** — for the animated background
+- **HTML5 / CSS3** - custom properties (CSS variables) for theming, CSS Grid for layout
+- **Vanilla JavaScript** - no frameworks; DOM rendering driven by a central `DATA` object
+- **Canvas API** - for the animated background
 
 ## Projects Featured
 
